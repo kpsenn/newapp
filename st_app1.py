@@ -21,7 +21,7 @@ df = pd.read_csv(
 # Main
 # -----------------------------------------------------------
 # Create a title for your app
-st.title("Interactive K-Means Clustering")
+st.title("Interactive K-Means Clustering---KPS")
 
 # A description
 st.write("Here is the dataset used in this analysis:")
