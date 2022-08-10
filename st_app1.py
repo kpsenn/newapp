@@ -8,7 +8,7 @@ import pandas as pd
 # -----------------------------------------------------------
 # Load data from external source
 df = pd.read_csv(
-    "https://raw.githubusercontent.com/ThuwarakeshM/PracticalML-KMeans-Election/master/voters_demo_sample.csv"
+    "https://github.com/kpsenn/newapp/blob/main/stock_data.csv"
 )
 # -----------------------------------------------------------
 
