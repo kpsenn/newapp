@@ -8,7 +8,7 @@ import pandas as pd
 # -----------------------------------------------------------
 # Load data from external source
 df = pd.read_csv(
-    "https://github.com/kpsenn/newapp/blob/main/stock_data.csv"
+    "https://raw.githubusercontent.com/kpsenn/newapp/main/stock_data.csv"
 )
 # -----------------------------------------------------------
 
